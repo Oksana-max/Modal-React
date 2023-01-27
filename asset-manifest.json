@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Oksana-max/Modal-React./static/css/main.eab0744e.css",
-    "main.js": "/Oksana-max/Modal-React./static/js/main.3afe771c.js",
-    "index.html": "/Oksana-max/Modal-React./index.html",
-    "main.eab0744e.css.map": "/Oksana-max/Modal-React./static/css/main.eab0744e.css.map",
-    "main.3afe771c.js.map": "/Oksana-max/Modal-React./static/js/main.3afe771c.js.map"
+    "main.css": "/Oksana-max/Modal-React/static/css/main.eab0744e.css",
+    "main.js": "/Oksana-max/Modal-React/static/js/main.3afe771c.js",
+    "index.html": "/Oksana-max/Modal-React/index.html",
+    "main.eab0744e.css.map": "/Oksana-max/Modal-React/static/css/main.eab0744e.css.map",
+    "main.3afe771c.js.map": "/Oksana-max/Modal-React/static/js/main.3afe771c.js.map"
   },
   "entrypoints": [
     "static/css/main.eab0744e.css",
